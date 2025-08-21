@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -static-libstdc++ -static-libgcc CMakeFiles/ros2_zenoh_pico_sub.dir/src/main.cpp.o -o ros2_zenoh_pico_sub  ../third_party/zenoh-pico/lib/libzenohpico.a 

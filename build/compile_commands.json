@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/lbt/Code/ros2_zenoh_pico_sub/build",
-  "command": "/usr/bin/g++ -DZENOHCXX_ZENOHPICO -DZENOH_LINUX -I/home/lbt/Code/ros2_zenoh_pico_sub/third_party/zenoh-cpp/include -isystem /home/lbt/Code/ros2_zenoh_pico_sub/third_party/zenoh-pico/include -g -fPIE -std=gnu++17 -o CMakeFiles/ros2_zenoh_pico_sub.dir/src/main.cpp.o -c /home/lbt/Code/ros2_zenoh_pico_sub/src/main.cpp",
-  "file": "/home/lbt/Code/ros2_zenoh_pico_sub/src/main.cpp"
-}
-]
